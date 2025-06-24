@@ -6,12 +6,12 @@
       👇 Here are some links if you want to take a look and see what I'm up to 👇
     </p>
     <p>
-      <a href="https://github.com/franmosteiro" target="_blank">
-          <img :src="$withBase('/github-logo.png')" alt="github-logo">
-      </a>
       <a href="mailto:fran@larivolta.es" target="_blank">
           <img :src="$withBase('/mail-logo.png')" alt="mailto-logo">
       </a> 
+      <a href="https://github.com/franmosteiro" target="_blank">
+          <img :src="$withBase('/github-logo.png')" alt="github-logo">
+      </a>
       <a href="https://bsky.app/profile/franmosteiro.bsky.social" target="_blank">
           <img :src="$withBase('/bluesky-logo.png')" alt="bluesky-logo">
       </a>
