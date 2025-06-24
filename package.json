@@ -13,9 +13,13 @@
   },
   "license": "MIT",
   "dependencies": {
-    "vuepress-theme-bulma": "^1.1.0"
+    "vuepress-theme-bulma": "^1.1.0",
+    "sass": "^1.32.0"
   },
   "devDependencies": {
     "vuepress": "^1.8.2"
+  },
+  "resolutions": {
+    "node-sass": "npm:sass@^1.32.0"
   }
 }
