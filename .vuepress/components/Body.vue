@@ -12,6 +12,9 @@
       <a href="mailto:fran@larivolta.es" target="_blank">
           <img :src="$withBase('/mail-logo.png')" alt="mailto-logo">
       </a> 
+      <a href="https://bsky.app/profile/franmosteiro.bsky.social" target="_blank">
+          <img :src="$withBase('/bluesky-logo.png')" alt="bluesky-logo">
+      </a>
       <a href="https://twitter.com/fran_mosteiro" target="_blank">
           <img :src="$withBase('/twitter-logo.png')" alt="twitter-logo">
       </a>
