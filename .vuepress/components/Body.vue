@@ -21,17 +21,3 @@
     </p>
   </div>
 </template>
-
-<style scoped>
-.body {
-  margin: auto;
-  width: 70%;
-  padding: 10px;
-  text-align: center;
-}
-
-img {
-    width: 50px;
-    height: 50px;
-}
-</style>
